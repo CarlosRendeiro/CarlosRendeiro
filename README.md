@@ -14,8 +14,8 @@ Em ordem de prioridade atual:
 
 | # | Área | Repositório |
 |---|---|---|
-| 1 | **RTIEBT** | [`rtiebt-notas`](../rtiebt-notas) · apoio: [`projetos-cad-instalacoes`](../projetos-cad-instalacoes) |
-| 2 | **Motores Elétricos WEG** | [`motores-weg-notas`](../motores-weg-notas) · apoio: [`automacao-esquemas`](../automacao-esquemas) |
+| 1 | **RTIEBT** | [`rtiebt-notas`](../rtiebt-notas) |
+| 2 | **Motores Elétricos WEG** | [`motores-weg-notas`](../motores-weg-notas) |
 | 3 | Cartografia e SIG (ArcGIS Pro, QGIS) | [`cartografia-sig`](../cartografia-sig) |
 | 4 | Banco de dados geoespacial (PostgreSQL/PostGIS) | [`postgis-geo-queries`](../postgis-geo-queries) |
 | 5 | Administração Linux (Rocky Linux, Podman) | [`linux-infra-notes`](../linux-infra-notes) |
