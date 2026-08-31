@@ -1,5 +1,4 @@
-# Olá 👋
-
+# Olá 
 **Geógrafo | Especialista em Geoprocessamento | Técnico em formação em Eletrotécnica e Automação**
 
 Construindo uma base sólida rumo à Engenharia (OET/CONFEA), unindo geoprocessamento, automação industrial e infraestrutura digital.
