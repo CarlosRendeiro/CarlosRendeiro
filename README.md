@@ -1,5 +1,5 @@
 # Olá 
-**Geógrafo | Especialista em Geoprocessamento | Técnico em formação em Eletrotécnica e Automação**
+**Geógrafo | Especialista em Geoprocessamento | Técnico em formação em Intalações Elétricas, Automação e ITED ( Nível 4 e Nível 5) **
 
 Construindo uma base sólida rumo à Engenharia (OET/CONFEA), unindo geoprocessamento, automação industrial e infraestrutura digital.
 
