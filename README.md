@@ -1,7 +1,7 @@
 # Olá 
-**Geógrafo | Especialista em Geoprocessamento | Técnico em formação em Intalações Elétricas, Automação e ITED ( Nível 4 e Nível 5) **
+**Geógrafo | Especialista em Geoprocessamento | Técnico em formação em Intalações Elétricas, Automação e ITED ( Nível 4 e Nível 5)**
 
-Construindo uma base sólida rumo à Engenharia (OET/CONFEA), unindo geoprocessamento, automação industrial e infraestrutura digital.
+Construindo uma base sólida rumo à Engenharia (OET/CONFEA), unindo geoprocessamento, automação industrial e infraestrutura digital e de telecomuniçações.
 
 ---
 
@@ -9,8 +9,8 @@ Construindo uma base sólida rumo à Engenharia (OET/CONFEA), unindo geoprocessa
 
 -  **Bacharel em Geografia** — Brasil
 -  **Especialista em Geoprocessamento** — Brasil
--  **Formação de base:** EFA *(em conclusão)* → **CTeSP em Eletrotecnia e Automação** — Portugal
--  **Próximo passo:** Licenciatura em Engenharia + habilitação **OET/CONFEA**
+-  **Formação de base:** EFA *(em conclusão)* → Portugal
+-  **CTeSP em Instalações Elétricas e Automação**  CTeSP *(em andamento)→ Portugal
 -  **Objetivo de longo prazo:** Projetista/Engenheiro independente — Cartografia, DBA, Engenharia BT/MT, ITED e infraestrutura de datacenters
 
 ---
